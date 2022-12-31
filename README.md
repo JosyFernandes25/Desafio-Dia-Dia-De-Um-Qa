@@ -1,5 +1,5 @@
 ### 📚 Desafio Dia a Dia de um Qa: Bootcamp DIO 📚
-**_Documentação de projeto DIO, realizados no módulo "Fundamento de Qualidade e Desenvolvimento de Software", em Dez/22_**
+**_Documentação de projeto DIO, realizados no módulo "Fundamento de Qualidade e Desenvolvimento de Software", em Dez/22._**
 #### Abordagens:
 **💡 Escrita de User Storys: Treino da análise de documentação e critérios de aceite.** 
  
@@ -7,4 +7,4 @@
   
 **💡 Mapa mental descritivo do planejamento de testes, exemplificando caso de teste , cenários possíveis e estratégias utilizadas.** 
  
-**💡 Documento de escrita de casos de teste em modelos Step By Step e Gherkin** 
+**💡 Documento de escrita de casos de teste em modelos Step By Step e Gherkin.** 
