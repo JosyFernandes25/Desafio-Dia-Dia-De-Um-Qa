@@ -1,5 +1,5 @@
 ### 📚 Desafio Dia a Dia de um Qa: Bootcamp DIO 📚
-**Documentação de projeto DIO, realizados no módulo "Fundamento de Qualidade e Desenvolvimento de Software", em Dez/22**
+**_Documentação de projeto DIO, realizados no módulo "Fundamento de Qualidade e Desenvolvimento de Software", em Dez/22_**
 #### Abordagens:
 **💡 Escrita de User Storys: Treino da análise de documentação e critérios de aceite.** 
  
